@@ -19,3 +19,6 @@ El proyecto está organizado de manera clara para facilitar su lectura y reprodu
 * 📌 **`README.md`**: Este documento, que sirve como introducción y guía general del proyecto.
 
 ---
+**Axel Edwin Serrano Ruiz**
+| ![Imagen](https://github.com/user-attachments/assets/b056c417-64ea-47ef-a64e-144917396f74) |
+| :---: |
